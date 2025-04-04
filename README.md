@@ -7,4 +7,4 @@ Script hub to do everything automatically. All the scripts are tested on RMIT Ra
 
 # LICENSE
 
-[](./LICENSE)
+[LICENSE](./LICENSE)
